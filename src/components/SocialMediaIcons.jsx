@@ -5,9 +5,8 @@ import { motion } from "framer-motion";
 const socialLinks = [
   { id: 1, name: "Github", icon: <Github size={20} />, url: "https://github.com/nitin01010" },
   { id: 2, name: "LinkedIn", icon: <Linkedin size={20} />, url: "https://www.linkedin.com/in/nitin0202/" },
-  { id: 3, name: "Instagram", icon: <Instagram size={20} />, url: "https://www.instagram.com/" },
   { id: 4, name: "YouTube", icon: <Youtube size={20} />, url: "https://www.youtube.com/@Nitindevtech" },
-  { id: 5, name: "Portfolio", icon: <Globe size={20} />, url: "https://youtubekajudva.vercel.app/" },
+  { id: 5, name: "Portfolio", icon: <Globe size={20} />, url: "https://nitindev.tech/" },
 ];
 
 const SocialMediaIcons = () => {

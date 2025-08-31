@@ -34,7 +34,7 @@ export default function Header() {
         {/* Desktop Nav */}
         <nav className="hidden md:block">
           <ul className="flex items-center gap-10">
-            <a href="#workExperience">
+            <a href="#workExprence">
               <li className="cursor-pointer hover:text-white text-gray-400">
                 Work Experience
               </li>
@@ -44,7 +44,7 @@ export default function Header() {
                 Projects
               </li>
             </a>
-            <a href="#contact">
+            <a href="#contract">
               <li className="cursor-pointer hover:text-white text-gray-400">
                 Contact
               </li>

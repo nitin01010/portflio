@@ -24,7 +24,7 @@ const Profile = () => {
 
       <div className="w-full md:w-[70%] font-bold text-center md:text-left">
         <h2 className="text-3xl py-5 text-white">
-          Hey, I'm Nitin. <span className="text-gray-500"> I'm a Full Stack </span>
+          Hey, I'm Nitin. <span className="text-gray-500"> I'm a Full Stack Developer</span>
         </h2>
         <div className="flex flex-col sm:flex-row font-bold items-center justify-center md:justify-start gap-4">
           <span className="flex items-center bg-green-600/20 h-[32px] px-4 rounded-full">
