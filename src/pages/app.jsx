@@ -1,10 +1,10 @@
 import React from 'react'
 import Header from './header'
-import Main from '../components/main'
+import Main from './main'
 
 const App = () => {
   return (
-    <div>
+    <div className=' bg-black text-white'>
       <Header />
       <Main />
     </div>
