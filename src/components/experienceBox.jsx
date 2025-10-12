@@ -3,7 +3,7 @@ import Google from "../img/google.png";
 
 const ExperienceBox = ({position,about,date,componie}) => {
     return (
-        <div data-aos="fade-down" className='  w-[343px]  hover:scale-110 transition-transform duration-200   h-[426px] sm:w-full m-auto sm:m-0 sm:h-[192px] border p-[24px]  mt-6 border-[#D4D4D8] hover:bg-[#404040]  ease-linear rounded-[10px]'>
+        <div data-aos="fade-down" className='  w-[343px]  hover:scale-110 transition-transform duration-200 h-full sm:w-full m-auto sm:m-0 sm:h-[192px] border p-[24px]  mt-6 border-[#D4D4D8] hover:bg-[#404040]  ease-linear rounded-[10px]'>
             <div className='flex flex-col gap-4 sm:flex-row justify-between'>
                 <div className=' flex gap-4'>
                     <p className=' font-bold text-lg capitalize'>{componie}</p>
